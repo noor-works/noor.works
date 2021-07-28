@@ -2,7 +2,7 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/noor.works.svg?style=social&label=Follow%20%40noor.works&ref_src=twsrc%5Etfw)](https://twitter.com/noor.works)
 
-Hi! My name is Noor 🏄‍♂️ Excuse the mess, I honestly wasn't expecting you. Welcome to the code that controls my evergrowing space on the internet. 
+Hi! My name is Noor. Excuse the mess, I honestly wasn't expecting you. Welcome to the code that controls my evergrowing space on the internet. 
 
 Building out my personal website has brought me a lot of joy over the years, and it's transformed many, many times. I actually try to update it every few weeks. 
 
