@@ -123,7 +123,7 @@ export default function Home() {
             />
             <Project
               title="Social"
-              description="A community website."
+              description="A community website made with Wordpress and Buddypress."
               repo="social"
               demo={true}
               code={false}
