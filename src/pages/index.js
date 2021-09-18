@@ -108,8 +108,8 @@ export default function Home() {
         <Section header="Projects">
           <Stack spacing={8}>
             <Project
-              title="My Website"
-              description="That's what I have now to showcase as my portfolio"
+              title="Noor.works"
+              description="My personal website made with Nextjs."
               repo="noor.works"
               demo={true}
               code={true}
