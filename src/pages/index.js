@@ -121,13 +121,6 @@ export default function Home() {
               demo={true}
               code={false}
             />
-            <Project
-              title="Social"
-              description="A community website made with Wordpress and Buddypress."
-              repo="social"
-              demo={true}
-              code={false}
-            />
           </Stack>
         </Section>
         <Section header="Contact">
