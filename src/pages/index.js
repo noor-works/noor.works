@@ -114,6 +114,13 @@ export default function Home() {
               demo={true}
               code={true}
             />
+            <Project
+              title="Hitek"
+              description="A ecommerce website made with Wordpress and Woocommerce."
+              repo="hitek"
+              demo={true}
+              code={false}
+            />
           </Stack>
         </Section>
         <Section header="Contact">
