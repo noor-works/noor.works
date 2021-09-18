@@ -121,6 +121,13 @@ export default function Home() {
               demo={true}
               code={false}
             />
+            <Project
+              title="Social"
+              description="A community website."
+              repo="social"
+              demo={true}
+              code={false}
+            />
           </Stack>
         </Section>
         <Section header="Contact">
