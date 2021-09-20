@@ -94,17 +94,6 @@ export default function Home() {
             <ActionButton mt={3}>More about me →</ActionButton>
           </NextLink>
         </Flex>
-        <Current />
-        <Section header="Experience">
-          <Stack spacing={8}>
-            <Item
-              role="Self Taught Developer"
-              company="noor.works"
-              date="June 2019 - Present"
-              link="https://noor.works/"
-            />
-          </Stack>
-        </Section>
         <Section header="Projects">
           <Stack spacing={8}>
             <Project
@@ -118,6 +107,13 @@ export default function Home() {
               title="Hitek"
               description="A ecommerce website made with Wordpress and Woocommerce."
               repo="hitek"
+              demo={true}
+              code={false}
+            />
+            <Project
+              title="A Jekyll Blog"
+              description="A Blog website made with jekyll."
+              repo="jekyll-blog"
               demo={true}
               code={false}
             />
